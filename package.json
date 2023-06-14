@@ -1,0 +1,16 @@
+{
+  "name": "planets-project",
+  "version": "1.0.0",
+  "description": "Following this udemy course: https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.4.0",
+    "prettier": "^2.8.8"
+  }
+}
